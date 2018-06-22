@@ -34,6 +34,9 @@ captures/
 
 # IntelliJ
 *.iml
+/.idea/libraries
+/.idea/workspace.xml
+/.idea/modules.xml
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
@@ -63,3 +66,11 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+.DS_Store
+/build
+/captures
+
+#emacs temps
+*~
+*\#*\#

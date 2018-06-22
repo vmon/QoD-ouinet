@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "/home/klaymen/doc/code/QoD/ouinet/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/opt/android-sdk/cmake/3.6.4111459/bin/cmake --build /home/klaymen/doc/code/QoD/ouinet/build-cmake/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "client-lib-Debug-armeabi-v7a": {
+      "artifactName": "client-lib",
+      "abi": "armeabi-v7a",
+      "output": "/home/klaymen/doc/code/ouinet/scripts/build-ouinet-android/build-android/builddir/deps/armeabi-v7a/libclient.so"
+    },
+    "native-lib-Debug-armeabi-v7a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/opt/android-sdk/cmake/3.6.4111459/bin/cmake --build /home/klaymen/doc/code/QoD/ouinet/build-cmake/cmake/debug/armeabi-v7a --target native-lib",
+      "abi": "armeabi-v7a",
+      "output": "/home/klaymen/doc/code/QoD/ouinet/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so"
+    }
+  }
+}

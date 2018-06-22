@@ -1,0 +1,3 @@
+/home/klaymen/doc/code/QoD/ouinet/build-cmake/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/klaymen/doc/code/QoD/ouinet/build-cmake/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/klaymen/doc/code/QoD/ouinet/build-cmake/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir
